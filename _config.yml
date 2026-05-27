@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Yanis Zatout / Yanis Zatout"
+title                    : "Yanis Zatout / Ph.D.-Ing"
 title_separator          : "-"
 name                     : &name "Yanis Zatout"
 description              : &description "Engineering Ph.D. and turbulence researcher"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -27,8 +27,8 @@ author:
   name             : "Yanis Zatout"
   pronouns         : # example: "she/her"  
   bio              : ""
-  location         : "Perpignan, Pyrénées Orientales, France"
-  employer         : "France Travail"
+  location         : "Perpignan, Maisons-Alfort, France"
+  employer         : # 
   uri              : # URL
   email            : "yanis (dot) zatout at hotmail (dot) com" 
 
